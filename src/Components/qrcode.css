@@ -9,7 +9,7 @@
         transform: none;
         display: flex;
         flex-direction: column;
-        margin : 15% auto;
+        margin : 18% auto;
         border-radius: 1rem;
         border: none;
            
@@ -43,9 +43,8 @@
     }
 
     .intro {
-        font-size: 1.25rem;
-        font-weight: 900;
-        opacity: 0.75;
+        font-size: 1.35rem;
+        font-weight: 800;
         padding: 1rem;
         background: none;
         margin: 0.25rem 0;
@@ -57,5 +56,6 @@
         opacity: 0.5;
         margin: 0.75rem 0;
         background: none;
+        max-width: 90%;
     }
 
