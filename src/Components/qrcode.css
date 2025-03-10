@@ -9,7 +9,7 @@
         transform: none;
         display: flex;
         flex-direction: column;
-        margin : 18% auto;
+        margin : 16% auto;
         border-radius: 1rem;
         border: none;
            
@@ -48,6 +48,7 @@
         padding: 1rem;
         background: none;
         margin: 0.25rem 0;
+        opacity: 0.70;
     }
 
     .intro1 {
